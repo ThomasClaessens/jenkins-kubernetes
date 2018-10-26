@@ -4,7 +4,7 @@
     display-name: "Update Configuration-as-Code configuration"
     scm:
       - git:
-          url: git://github.com/tizianatroukens/jenkins-kubernetes.git
+          url: git://github.com/ThomasClaessens/jenkins-kubernetes.git
           branches:
             - origin/master
     triggers:
