@@ -35,7 +35,7 @@ Master:
   # Environment Variables
   ContainerEnv:
     - name: CASC_JENKINS_CONFIG
-      value: https://raw.githubusercontent.com/tizianatroukens/jenkins-kubernetes/master/casc/config.yml
+      value: https://raw.githubusercontent.com/ThomasClaessens/jenkins-kubernetes/master/casc/config.yml
     - name: JENKINS_URL
       value: http://192.168.99.100:32000
 
