@@ -9,4 +9,3 @@
     project-type: freestyle
     builders:
       - shell: 'echo $message'
-      
